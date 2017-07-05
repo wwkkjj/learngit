@@ -4,4 +4,8 @@ hello  33333333333333  git  test
 hello  44444444444444  git  test
 hello  55555555555555  git  test
 hello  66666666666666  git  test
-hello  77777777777777  git  test
+<<<<<<< HEAD
+hello  77777777777777  feature1  test
+=======
+hello  77777777777777  feature1  test
+>>>>>>> feature1

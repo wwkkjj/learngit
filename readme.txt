@@ -6,3 +6,4 @@ hello  55555555555555  git  test
 hello  66666666666666  git  test
 hello  77777777777777  feature1  test
 hello git  --no-ff  teat
+hello  now modify bug 1234567890
